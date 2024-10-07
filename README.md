@@ -51,9 +51,11 @@ Notice Screens:
 - Raspberry Pi Model B Rev 2, 512MB (2012) (NOT RECCOMDNED FOR VIDEO PLAYBACK OR HEAVY HTML PAGES).
 - Raspberry Pi 3 Model B Rev 1.2M
 
+
 Setup and operating guide for the Raspberry Pi Notice Screen System:
 
 [Raspberry Pi Notice Screen Setup Guide 1.0.pdf](https://github.com/user-attachments/files/17271220/Raspberry.Pi.Notice.Screen.Setup.Guide.1.0.pdf)
+
 
 
 Error code and troubleshooting reference manual:
