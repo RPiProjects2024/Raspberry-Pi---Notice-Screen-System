@@ -18,7 +18,7 @@ Features:
 * Supports: HTML, Video/Audio, Slideshows and even audio playback.
 * Super lightweight design (The system can fit on a 1.44MB Floppy disk for an idea of size).
 * A dedicated Management System which is used to make changes to Notice Screens.
-* Apache is installed on the Management system, if you wanted to host HTML pages from.
+* Apache is installed on the Management system which will allow you to host webpages locally.
 * Easy and quick command changes.
 * Endless possibilities - customize your own HTML.
 * Make mass changes up to 10 Raspberry Pi devices.
