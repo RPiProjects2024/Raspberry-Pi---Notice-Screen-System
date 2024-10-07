@@ -20,7 +20,7 @@ Features:
 * A dedicated Management System which is used to make changes to Notice Screens.
 * Apache is installed on the Management system which will allow you to host webpages locally.
 * Easy and quick command changes.
-* Endless possibilities - customize your own HTML.
+* Endless possibilities - customize your own HTML pages.
 * Make mass changes up to 10 Raspberry Pi devices.
 * Clone the contents and operating mode of up to 10 notice screens at once.
 * Easy installation and setup.
