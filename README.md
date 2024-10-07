@@ -16,14 +16,14 @@ an example that works really well in both testing and business use. There are en
 Features:
 
 * Supports: HTML, Video/Audio, Slideshows and even audio playback.
-* Super lightweight design (The system can fit on a 1.44MB Floppy disk for an idea of size)
-* A dedicated Management System which is used to make changes to Notice Screens
+* Super lightweight design (The system can fit on a 1.44MB Floppy disk for an idea of size).
+* A dedicated Management System which is used to make changes to Notice Screens.
 * Apache is installed on the Management system, if you wanted to host simple HTML files from it.
 * Easy and quick command changes.
 * Endless possibilities - customize your own HTML.
-* Make mass changes up to 10 Raspberry Pi devices
+* Make mass changes up to 10 Raspberry Pi devices.
 * Clone the contents and operating mode of up to 10 notice screens at once.
-* Easy installation and setup
+* Easy installation and setup.
 * Automatic event logging for audit purposes of any changes made through the Management System.
 * Create IMG backups of both Notice Screens and the Management System over USB.
 * Automatic updates to the Raspberry Pi OS and installed Software for security.
