@@ -60,6 +60,5 @@ Setup and operating guide for the Raspberry Pi Notice Screen System:
 
 
 Error code and troubleshooting reference manual:
+[Error code Reference.pdf](https://github.com/user-attachments/files/17298075/Error.code.Reference.pdf)
 
-
-[Error code Reference.pdf](https://github.com/user-attachments/files/17271583/Error.code.Reference.pdf)
